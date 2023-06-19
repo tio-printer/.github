@@ -1,4 +1,4 @@
-# tio
+[# tio
 
 A tinkerer-friendly device that prints messages via a thermal "receipt" printer. Tio stands for "Thermal I/O" or "Thermal In/Out." 
 
@@ -23,3 +23,4 @@ See [GitHub Projects](https://github.com/orgs/tio-printer/projects/2) for a basi
 ## Contributing
 
 Instructions coming soon
+](https://github.com/tio-printer/tio)https://github.com/tio-printer/tio
