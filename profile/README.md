@@ -6,6 +6,10 @@ A tinkerer-friendly device that prints messages via a thermal "receipt" printer.
 
 Read [the tio docs on GitBook](https://bpmct.gitbook.io/tio/) to learn more and see common use cases.
 
+## Help & Feedback
+
+Create or browse [GitHub issues](https://github.com/tio-printer/tio/issues) for support.
+
 ## Hardware
 
 The tio client can run on single-board computers (e.g. Raspberry Pi) or microcontrollers (ESP32). It is expected for an ESC/POS compatible printer + 2 momentary buttons to be attached to the device.
@@ -23,4 +27,3 @@ See [GitHub Projects](https://github.com/orgs/tio-printer/projects/2) for a basi
 ## Contributing
 
 Instructions coming soon
-](https://github.com/tio-printer/tio)https://github.com/tio-printer/tio
